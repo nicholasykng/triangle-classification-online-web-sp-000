@@ -6,5 +6,5 @@ class Triangle
     @l3 = l3
   end
 
-    
+
 end
