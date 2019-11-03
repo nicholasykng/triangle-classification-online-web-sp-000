@@ -27,3 +27,4 @@ class Triangle
       "The sume of the lengths of any two sides of a triangle always exceeds the length of the third side. Each side must be larger than 0."
 end
 end
+end
